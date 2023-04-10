@@ -1,0 +1,13 @@
+{
+  "todolist": "To Do List",
+  "addnewtask": "Add new Task",
+  "title": "Title",
+  "description": "Description",
+  "selecttime": "Select Time",
+  "add": "Add",
+  "language": "Language",
+  "mode": "Mode",
+  "light": "Light",
+  "dark": "Dark"
+
+}
